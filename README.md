@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Deep Learning Research Project**
 
-- 🌱 I’m currently learning **more about web development and AI/ML**
+- 🌱 I’m currently learning **more about web development**
 
 - 📫 How to reach me **www.linkedin.com/in/sakshi-shivaprasad**
 
