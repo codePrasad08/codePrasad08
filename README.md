@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Deep Learning Research Project<br><br>📫 How to reach me www.linkedin.com/in/sakshi-shivaprasad<br><br>🎨 Hobbies & Interests 📸 Photography , 💻 Coding , 🐦 Birding</p>
+<p align="left">📫 How to reach me www.linkedin.com/in/sakshi-shivaprasad<br><br>🎨 Hobbies & Interests 📸 Photography , 💻 Coding , 🐦 Birding</p>
 
 ###
 
